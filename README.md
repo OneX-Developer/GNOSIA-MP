@@ -35,7 +35,6 @@ The mod only works with the Steam version **Build 8298880 (3 March 2022)**. If y
 3. When it is finished, Steam shows the download folder (`...\Steam\steamapps\content\app_1608290\depot_1608291`). Copy its contents into your GNOSIA game folder and overwrite the files (make a backup first).
 4. In Steam: GNOSIA → Properties → Updates → "Only update this game when I launch it", so Steam does not update it again.
 
-Note: the mod's own menus are currently in German.
 
 ### Download
 
