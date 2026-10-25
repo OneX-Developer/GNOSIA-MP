@@ -12,7 +12,7 @@
 
 ### What is it?
 
-GNOSIA-MP turns GNOSIA into a multiplayer game. The host plays the protagonist, the other players take over seats of the crew, and the remaining seats are filled by the game's NPCs as usual. Every human player experiences the game just like the protagonist in single player – the same commands, rules, effects and private information – only together with the others, in real time.
+GNOSIA-Multiplayer turns GNOSIA into a multiplayer game. The host plays the protagonist, the other players take over seats of the crew, and the remaining seats are filled by the game's NPCs as usual. Every human player experiences the game just like the protagonist in single player – the same commands, rules, effects and private information – only together with the others, in real time.
 
 - Discussion, voting, cold sleep, night visits, roles (Engineer, Doctor, Guardian Angel, Gnosia, AC Follower, Bug, Guard Duty) and night events work for every human player.
 - Each player uses their own save file: name, level, stats and skills are taken from it.
@@ -69,7 +69,7 @@ Start `GnosiaMP-Patcher.exe` and choose `[2]`. The game is then restored to its 
 
 ### License and copyright
 
-GNOSIA-MP is **not** open source. All rights are reserved by the author.
+GNOSIA-Multiplayer is **not** open source. All rights are reserved by the author.
 
 "OneXDeveloper" is a pseudonym. All rights in this mod (including the files `GnosiaMP.dll` and `GnosiaMP-Patcher.exe`, their code, design and texts) belong to the natural person who publishes the mod under that name.
 
@@ -150,7 +150,7 @@ Der Patcher legt vor jeder Änderung ein Backup an. Nach jedem Update des Spiels
 
 ### Lizenz und Urheberrecht
 
-GNOSIA-MP ist **kein** Open-Source-Projekt. Alle Rechte liegen beim Urheber.
+GNOSIA-Multiplayer ist **kein** Open-Source-Projekt. Alle Rechte liegen beim Urheber.
 
 „OneXDeveloper“ ist ein Pseudonym. Alle Rechte an dieser Mod (einschließlich der Dateien `GnosiaMP.dll` und `GnosiaMP-Patcher.exe`, ihres Codes, ihrer Gestaltung und Texte) liegen bei der natürlichen Person, die die Mod unter diesem Namen veröffentlicht.
 
