@@ -1,4 +1,4 @@
-# GNOSIA-Multiplayer
+# GNOSIA-MP
 
 **GNOSIA Multiplayer (LAN)** – an unofficial fan mod for the game [GNOSIA](https://store.steampowered.com/app/1608290/GNOSIA/) that lets you play with real people on multiple devices in your local network.
 
@@ -12,7 +12,7 @@
 
 ### What is it?
 
-GNOSIA-Multiplayer turns GNOSIA into a multiplayer game. The host plays the protagonist, the other players take over seats of the crew, and the remaining seats are filled by the game's NPCs as usual. Every human player experiences the game just like the protagonist in single player – the same commands, rules, effects and private information – only together with the others, in real time.
+GNOSIA-MP turns GNOSIA into a multiplayer game. The host plays the protagonist, the other players take over seats of the crew, and the remaining seats are filled by the game's NPCs as usual. Every human player experiences the game just like the protagonist in single player – the same commands, rules, effects and private information – only together with the others, in real time.
 
 - Discussion, voting, cold sleep, night visits, roles (Engineer, Doctor, Guardian Angel, Gnosia, AC Follower, Bug, Guard Duty) and night events work for every human player.
 - Each player uses their own save file: name, level, stats and skills are taken from it.
@@ -35,6 +35,7 @@ The mod only works with the Steam version **Build 8298880 (3 March 2022)**. If y
 3. When it is finished, Steam shows the download folder (`...\Steam\steamapps\content\app_1608290\depot_1608291`). Copy its contents into your GNOSIA game folder and overwrite the files (make a backup first).
 4. In Steam: GNOSIA → Properties → Updates → "Only update this game when I launch it", so Steam does not update it again.
 
+Note: the mod's own menus are currently in German.
 
 ### Download
 
@@ -69,7 +70,7 @@ Start `GnosiaMP-Patcher.exe` and choose `[2]`. The game is then restored to its 
 
 ### License and copyright
 
-GNOSIA-Multiplayer is **not** open source. All rights are reserved by the author.
+GNOSIA-MP is **not** open source. All rights are reserved by the author.
 
 "OneXDeveloper" is a pseudonym. All rights in this mod (including the files `GnosiaMP.dll` and `GnosiaMP-Patcher.exe`, their code, design and texts) belong to the natural person who publishes the mod under that name.
 
@@ -94,7 +95,7 @@ The mod is provided "as is", without warranty of any kind; use it at your own ri
 
 ### Was ist das?
 
-GNOSIA-Multiplayer macht aus GNOSIA ein Mehrspieler-Spiel. Der Host spielt den Protagonisten, die Mitspieler übernehmen Plätze der Crew, und die übrigen Plätze besetzen wie gewohnt die NPCs des Spiels. Jeder Mensch erlebt das Spiel wie der Protagonist im Einzelspieler – dieselben Befehle, Regeln, Effekte und privaten Infos –, nur gemeinsam mit den anderen und gleichzeitig.
+GNOSIA-MP macht aus GNOSIA ein Mehrspieler-Spiel. Der Host spielt den Protagonisten, die Mitspieler übernehmen Plätze der Crew, und die übrigen Plätze besetzen wie gewohnt die NPCs des Spiels. Jeder Mensch erlebt das Spiel wie der Protagonist im Einzelspieler – dieselben Befehle, Regeln, Effekte und privaten Infos –, nur gemeinsam mit den anderen und gleichzeitig.
 
 - Diskussion, Abstimmung, Kälteschlaf, nächtliche Besuche, Rollen (Engineer, Doctor, Guardian Angel, Gnosia, AC Follower, Bug, Guard Duty) und Nacht-Ereignisse funktionieren für jeden Menschen.
 - Jeder spielt mit seinem eigenen Spielstand: Name, Level, Werte und Fähigkeiten werden daraus übernommen.
@@ -150,7 +151,7 @@ Der Patcher legt vor jeder Änderung ein Backup an. Nach jedem Update des Spiels
 
 ### Lizenz und Urheberrecht
 
-GNOSIA-Multiplayer ist **kein** Open-Source-Projekt. Alle Rechte liegen beim Urheber.
+GNOSIA-MP ist **kein** Open-Source-Projekt. Alle Rechte liegen beim Urheber.
 
 „OneXDeveloper“ ist ein Pseudonym. Alle Rechte an dieser Mod (einschließlich der Dateien `GnosiaMP.dll` und `GnosiaMP-Patcher.exe`, ihres Codes, ihrer Gestaltung und Texte) liegen bei der natürlichen Person, die die Mod unter diesem Namen veröffentlicht.
 
