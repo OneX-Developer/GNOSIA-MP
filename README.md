@@ -1,4 +1,4 @@
-# GNOSIA-MP
+# GNOSIA-Multiplayer
 
 **GNOSIA Multiplayer (LAN)** – an unofficial fan mod for the game [GNOSIA](https://store.steampowered.com/app/1608290/GNOSIA/) that lets you play with real people on multiple devices in your local network.
 
@@ -94,7 +94,7 @@ The mod is provided "as is", without warranty of any kind; use it at your own ri
 
 ### Was ist das?
 
-GNOSIA-MP macht aus GNOSIA ein Mehrspieler-Spiel. Der Host spielt den Protagonisten, die Mitspieler übernehmen Plätze der Crew, und die übrigen Plätze besetzen wie gewohnt die NPCs des Spiels. Jeder Mensch erlebt das Spiel wie der Protagonist im Einzelspieler – dieselben Befehle, Regeln, Effekte und privaten Infos –, nur gemeinsam mit den anderen und gleichzeitig.
+GNOSIA-Multiplayer macht aus GNOSIA ein Mehrspieler-Spiel. Der Host spielt den Protagonisten, die Mitspieler übernehmen Plätze der Crew, und die übrigen Plätze besetzen wie gewohnt die NPCs des Spiels. Jeder Mensch erlebt das Spiel wie der Protagonist im Einzelspieler – dieselben Befehle, Regeln, Effekte und privaten Infos –, nur gemeinsam mit den anderen und gleichzeitig.
 
 - Diskussion, Abstimmung, Kälteschlaf, nächtliche Besuche, Rollen (Engineer, Doctor, Guardian Angel, Gnosia, AC Follower, Bug, Guard Duty) und Nacht-Ereignisse funktionieren für jeden Menschen.
 - Jeder spielt mit seinem eigenen Spielstand: Name, Level, Werte und Fähigkeiten werden daraus übernommen.
