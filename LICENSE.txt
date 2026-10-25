@@ -7,8 +7,9 @@ Copyright (c) 2026 OneXDeveloper. All rights reserved.
 GnosiaMP-Patcher.exe, their code, design and texts, together "the Mod") belong to the
 natural person who publishes the Mod under that name ("the Author").
 
-By installing or using the Mod you agree to this license. If you do not agree, do not
-install or use the Mod and delete all copies.
+By downloading, obtaining a copy of, installing or using the Mod you agree to this license.
+This license applies to every copy of the Mod, however it was obtained. If you do not agree,
+do not download, install or use the Mod and delete all copies.
 
 1. Permitted use
    You may install the Mod on your own computer and use it to play GNOSIA, privately and
@@ -59,8 +60,10 @@ Copyright (c) 2026 OneXDeveloper. Alle Rechte vorbehalten.
 GnosiaMP-Patcher.exe, ihr Code, ihre Gestaltung und Texte, zusammen "die Mod") liegen bei der
 natürlichen Person, die die Mod unter diesem Namen veröffentlicht ("der Urheber").
 
-Mit der Installation oder Nutzung der Mod stimmst du dieser Lizenz zu. Wenn du nicht
-zustimmst, installiere und nutze die Mod nicht und lösche alle Kopien.
+Mit dem Herunterladen, dem Erhalt einer Kopie, der Installation oder der Nutzung der Mod
+stimmst du dieser Lizenz zu. Diese Lizenz gilt für jede Kopie der Mod, egal wie sie erlangt
+wurde. Wenn du nicht zustimmst, lade die Mod nicht herunter, installiere und nutze sie nicht
+und lösche alle Kopien.
 
 1. Erlaubte Nutzung
    Du darfst die Mod auf deinem eigenen Computer installieren und damit GNOSIA spielen,

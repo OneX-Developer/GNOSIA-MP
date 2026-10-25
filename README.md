@@ -90,7 +90,9 @@ GNOSIA-Multiplayer is **not** open source. All rights are reserved by the author
 - remove or bypass any protection, license notice or copyright notice of the mod;
 - use the mod for commercial purposes.
 
-The mod is provided "as is", without warranty of any kind; use it at your own risk. Your right to use the mod ends automatically if you violate the license. The complete and binding terms are in [LICENSE.txt](LICENSE.txt), which you must accept in the patcher before installing.
+The mod is provided "as is", without warranty of any kind; use it at your own risk. Your right to use the mod ends automatically if you violate the license. The complete and binding terms are in [LICENSE.txt](LICENSE.txt), which you must also accept in the patcher before installing.
+
+**By downloading the mod (the ZIP file) or obtaining a copy of it in any other way, you agree to the license.** It applies to every copy of the mod, no matter how you got it. If you do not agree, do not download the mod, or delete it.
 
 **Third parties:** GNOSIA and all related names, characters, images and trademarks belong to their respective owners (Petit Depotto / PLAYISM). This mod is an unofficial fan project and is not affiliated with, endorsed or sponsored by them. The mod does not contain or distribute any game files. The patcher includes the library Mono.Cecil, which is licensed separately under the MIT License (see THIRD-PARTY-NOTICES.txt).
 
@@ -178,6 +180,8 @@ GNOSIA-Multiplayer ist **kein** Open-Source-Projekt. Alle Rechte liegen beim Urh
 - Schutzmaßnahmen, Lizenz- oder Urheberrechtshinweise der Mod entfernen oder umgehen;
 - die Mod gewerblich nutzen.
 
-Die Mod wird ohne jede Gewährleistung bereitgestellt; die Nutzung erfolgt auf eigenes Risiko. Dein Nutzungsrecht endet automatisch, wenn du gegen die Lizenz verstößt. Die vollständigen und verbindlichen Bedingungen stehen in [LICENSE.txt](LICENSE.txt); ihnen muss im Patcher vor der Installation zugestimmt werden. Bei Abweichungen gilt die englische Fassung.
+Die Mod wird ohne jede Gewährleistung bereitgestellt; die Nutzung erfolgt auf eigenes Risiko. Dein Nutzungsrecht endet automatisch, wenn du gegen die Lizenz verstößt. Die vollständigen und verbindlichen Bedingungen stehen in [LICENSE.txt](LICENSE.txt); ihnen muss außerdem im Patcher vor der Installation zugestimmt werden. Bei Abweichungen gilt die englische Fassung.
+
+**Mit dem Herunterladen der Mod (der ZIP-Datei) oder dem Erhalt einer Kopie auf anderem Weg stimmst du der Lizenz zu.** Sie gilt für jede Kopie der Mod, egal wie du sie bekommen hast. Wenn du nicht zustimmst, lade die Mod nicht herunter bzw. lösche sie.
 
 **Dritte:** GNOSIA und alle zugehörigen Namen, Figuren, Bilder und Marken gehören ihren jeweiligen Inhabern (Petit Depotto / PLAYISM). Diese Mod ist ein inoffizielles Fan-Projekt und steht in keiner Verbindung zu ihnen; sie wird von ihnen weder unterstützt noch gesponsert. Die Mod enthält und verbreitet keine Spieldateien. Der Patcher enthält die Bibliothek Mono.Cecil, die separat unter der MIT-Lizenz steht (siehe THIRD-PARTY-NOTICES.txt).
